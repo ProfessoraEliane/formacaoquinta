@@ -3,6 +3,6 @@ body { background-color: rgb(214, 47, 178);
 #logo {height: 80%; width: 80%;}
 h1 { text-align: center; color: #440a2f; 
     border: 8px solid black;
-    padding: 10px;
+    padding: 10px; margin: 30px;
 }
 p {text-align: justify ; color:black}

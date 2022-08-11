@@ -1,5 +1,5 @@
 body { background-color: rgb(214, 47, 178);
 }
-#logo {height: 100%; width: 150%;}
+#logo {height: 100px; width: 150px;}
 h1 { text-align: center; color: #440a2f;}
 p {text-align: justify ; color:black}

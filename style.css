@@ -12,4 +12,5 @@ p {text-align: justify ; color:black}
 li::marker {
     font-size: 30px;
     content: "\2764";
+    color: rgb(153, 12, 87);
 }

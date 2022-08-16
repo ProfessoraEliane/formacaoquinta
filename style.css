@@ -11,5 +11,5 @@ h1 { text-align: center; color: #440a2f;
 p {text-align: justify ; color:black}
 li::marker {
     font-size: 30px;
-    content: "\1f499";
+    content: "\2764";
 }

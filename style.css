@@ -14,3 +14,5 @@ li::marker {
     content: "\2764";
     color: rgb(153, 12, 87);
 }
+.foto { width: 30%; }
+ul {display: inline-block;padding: 70px;}

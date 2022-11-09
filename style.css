@@ -1,8 +1,28 @@
 body { background-color: rgb(214, 47, 178);
 }
-#logo {margin-left:auto; margin-right: auto;  border: 3px solid black;}
-.texto-principal { background-color: rgb(255, 20, 145, 0.233);}
-h1 { text-align: center; color: #440a2f; 
+header{
+    background-color: whitesmoke;
+}
+#logo {margin-left:auto;
+ margin-right: auto;
+ width: 30%;}
+.texto-principal { 
+background-color: rgb(255, 20, 145, 0.233);
+}
+nav {position: absolute;
+    top: 0px;
+
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{ text-transform: uppercase;
+ text-decoration: none;
+font-weight: bold;
+}
+h1 { text-align: center; 
+    color: #440a2f; 
     border: 8px solid black;
     padding: 5px;
      margin: 3px;

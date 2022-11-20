@@ -7,11 +7,11 @@ header{
  margin-right: auto;
  width: 30%;}
 .texto-principal { 
-background-color: rgb(255, 20, 145, 0.233);
+background-color: rgba(43, 20, 255, 0.233);
 }
 nav {position: absolute;
     top: 0px;
-    right: 0px;
+    right: 10px;
 
 }
 nav li{

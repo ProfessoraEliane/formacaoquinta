@@ -32,4 +32,7 @@ h1 { text-align: center;
 p {text-align: justify ; color:black}
 
 .foto { width: 30%; }
+.produtos { margin: 0px;
+padding:  20px 0px;}
+
 .produtos li {display: inline-block;padding: 70px;}

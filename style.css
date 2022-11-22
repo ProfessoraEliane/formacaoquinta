@@ -30,10 +30,6 @@ h1 { text-align: center;
 }
 .itens {color: azure;}
 p {text-align: justify ; color:black}
-li::marker {
-    font-size: 30px;
-    content: "\2764";
-    color: rgb(153, 12, 87);
-}
+
 .foto { width: 30%; }
-ul {display: inline-block;padding: 70px;}
+.produtos li {display: inline-block;padding: 70px;}

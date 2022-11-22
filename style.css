@@ -22,17 +22,10 @@ nav a{ text-transform: uppercase;
  text-decoration: none;
 font-weight: bold;
 }
-h1 { text-align: center; 
-    color: #440a2f; 
-    border: 8px solid black;
-    padding: 5px;
-     margin: 3px;
-}
-.itens {color: azure;}
-p {text-align: justify ; color:black}
 
 .foto { width: 30%; }
 .produtos { margin: 0px;
 padding:  20px 0px;}
 
-.produtos li {display: inline-block;padding: 70px;}
+.produtos li {display: inline-block;
+    padding: 70px;}
